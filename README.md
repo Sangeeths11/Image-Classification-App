@@ -17,6 +17,13 @@ This project is ideal for individuals learning how to build machine learning-pow
 Whether you’re new to machine learning or an experienced developer, this project provides valuable insights into building and deploying image classification systems.
 
 ### Results:
-![grafik](https://github.com/user-attachments/assets/5561663b-ae3a-495b-9a2e-ae1a976d2b5b)
+<img width="100%" alt="Screenshot 2024-09-06 195513" src="https://github.com/user-attachments/assets/672e9e6e-9671-4379-a2fd-491af51334db">
 
 ### Setup Porject
+
+1. **Install Dependencies**: Run the following to install required packages:
+   ```bash
+   pip install -r requirements.txt
+2. **Run the App**: Launch the app by running:
+   ```bash
+   streamlit run app.py
