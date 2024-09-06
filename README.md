@@ -17,7 +17,8 @@ This project is ideal for individuals learning how to build machine learning-pow
 Whether you’re new to machine learning or an experienced developer, this project provides valuable insights into building and deploying image classification systems.
 
 ### Results:
-<img width="100%" alt="Screenshot 2024-09-06 195513" src="https://github.com/user-attachments/assets/672e9e6e-9671-4379-a2fd-491af51334db">
+<img width="100%" alt="Screenshot 2024-09-06 195727" src="https://github.com/user-attachments/assets/c0fc4ef0-809a-4705-b232-e770f3b586e1">
+
 
 ### Setup Porject
 
