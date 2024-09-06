@@ -15,3 +15,8 @@ This project is an interactive web app designed to classify images using a pre-t
 This project is ideal for individuals learning how to build machine learning-powered web applications. It demonstrates how to integrate a pre-trained model like ResNet-50 into an interactive web interface and offers a great starting point for anyone interested in deploying AI models for real-world applications.
 
 Whether you’re new to machine learning or an experienced developer, this project provides valuable insights into building and deploying image classification systems.
+
+### Results:
+![grafik](https://github.com/user-attachments/assets/5561663b-ae3a-495b-9a2e-ae1a976d2b5b)
+
+### Setup Porject
